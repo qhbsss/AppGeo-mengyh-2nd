@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.27)  9 APR 2025 20:27
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.27)  9 APR 2025 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**UnmarkRevision.tex
-(./UnmarkRevision.tex
+**RevisionArtical.tex
+(./RevisionArtical.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (d:/Software/texlive/2021/texmf-dist/tex/latex/elsarticle/elsarticle.cls
@@ -95,7 +95,7 @@ File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 \@sep=\skip49
 \@@sep=\skip50
 
-(./UnmarkRevision.spl)
+(./RevisionArtical.spl)
 (d:/Software/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
@@ -104,7 +104,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count197
 )
 \splwrite=\write3
-\openout3 = `UnmarkRevision.spl'.
+\openout3 = `RevisionArtical.spl'.
 
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
@@ -665,8 +665,20 @@ LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 243.
 (d:/Software/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(./UnmarkRevision.aux)
-\openout1 = `UnmarkRevision.aux'.
+(./RevisionArtical.aux)
+Runaway argument?
+{sub@fig:non-seismic events (part 
+! File ended while scanning use of \@newl@bel.
+<inserted text> 
+                \par 
+l.191 \begin{document}
+                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\openout1 = `RevisionArtical.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 191.
 LaTeX Font Info:    ... okay on input line 191.
@@ -679,7 +691,6 @@ LaTeX Font Info:    ... okay on input line 191.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 191.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 91.
-
 (d:/Software/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -750,9 +761,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 191.
 LaTeX Info: Redefining \pageref on input line 191.
 LaTeX Info: Redefining \nameref on input line 191.
- (./UnmarkRevision.out) (./UnmarkRevision.out)
+ (./RevisionArtical.out) (./RevisionArtical.out)
 \@outlinefile=\write5
-\openout5 = `UnmarkRevision.out'.
+\openout5 = `RevisionArtical.out'.
 
 
 (d:/Software/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
@@ -789,113 +800,4 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 26.
 
-(d:/Software/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-(d:/Software/texlive/2021/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
-
-)
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 232.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 232.
-
-[1
-
-\openout4 = `UnmarkRevision.upa'.
-
-]
-Missing character: There is no — ("2014) in font ectt1000!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ectt1000!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ectt1000!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ectt1000!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
-Missing character: There is no — ("2014) in font ec-lmr12!
- [2]
-File: flow1.png Graphic file (type bmp)
-<flow1.png>
- [3] [4] [5]
-Missing character: There is no ​ ("200B) in font ectt1000!
-Missing character: There is no ​ ("200B) in font ectt1000!
-Missing character: There is no ​ ("200B) in font ectt1000!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ectt1000!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-Missing character: There is no ​ ("200B) in font ec-lmr12!
-File: CYI4Eng.png Graphic file (type bmp)
-<CYI4Eng.png>
- [6] [7] [8]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 505.
- [9] [10] [11]
-File: Nicaragua_1990-01-01-2024-01-01.jpg Graphic file (type bmp)
-<Nicaragua_1990-01-01-2024-01-01.jpg>
-File: Nicaragua_rawEng.png Graphic file (type bmp)
-<Nicaragua_rawEng.png>
-File: Nicaragua_VMDEng.png Graphic file (type bmp)
-<Nicaragua_VMDEng.png>
- [12]
-
-Package amsmath Warning: Cannot use `split' here;
-(amsmath)                trying to recover with `aligned' on input line 610.
-
-
-Overfull \hbox (7.83342pt too wide) in paragraph at lines 618--630
- [][] 
- []
-
-[13]
-File: TRUE_FITEng.png Graphic file (type bmp)
-<TRUE_FITEng.png>
-File: FALSE_FIT1Eng.png Graphic file (type bmp)
-<FALSE_FIT1Eng.png>
-File: FALSE_FIT2Eng.png Graphic file (type bmp)
-<FALSE_FIT2Eng.png>
- [14] [15] [16] [17] (./UnmarkRevision.bbl [18] [19]) [20]
-(./UnmarkRevision.aux
-* soulpos - computing points - it may take a few seconds *
-\openout4 = `UnmarkRevision.upb'.
-
-
-(./UnmarkRevision.upa))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package rerunfilecheck Info: File `UnmarkRevision.out' has not changed.
-(rerunfilecheck)             Checksum: C1425F0D051D8318D170A039A9D54F14;884.
- ) 
-Here is how much of TeX's memory you used:
- 18315 strings out of 478866
- 308501 string characters out of 5864661
- 751533 words of memory out of 5000000
- 37841 multiletter control sequences out of 15000+600000
- 449134 words of font info for 88 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 85i,18n,98p,2817b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on UnmarkRevision.pdf (20 pages).
+(d:/Software/texlive/2
